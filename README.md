@@ -1,1 +1,2 @@
 # Employee_rentention_using_keras
+In this project, I will build a deep learning model that will predict the probability of an employee leaving a company. Retaining the best employees is an important factor for most organizations. To build the model, I will use this dataset available at Kaggle, which has features that measure employee satisfaction in a company. To create this model, I will use the Keras sequential layer to build the different layers for the model.
